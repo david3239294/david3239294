@@ -1,4 +1,4 @@
--  Hi, I’m @david3239294, The developer and owner of SwapDepot.net
+-  Hi, I’m @david3239294, The developer and owner of OptiLux formally known as Cryocurrency Optimization
 - I’m usually  interested in crypto trading and video games
 -  I am still learning solidity, it is a bit hard,but once you get the hang of it, peice of cake!
 -  I’m looking to collaborate with other projects and work as a team to help each project succeed. So if you or any other projects want to collaborate
